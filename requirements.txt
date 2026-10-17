@@ -1,0 +1,1 @@
+!pip freeze | grep -i -E "^(tensorflow|keras|scikit-learn|numpy|pandas|matplotlib|wandb|joblib|pillow|kaggle)=="
