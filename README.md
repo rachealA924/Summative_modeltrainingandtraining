@@ -5,7 +5,7 @@ Author: Racheal Resty Akello
 
 ## Links
 - Google Drive (raw data zip, best models, results): <https://drive.google.com/drive/folders/1pFZDtp62AhpwDWWG0D7KYr2bGlpKJadu?usp=drive_link>
-- Presentation video: <>
+- Presentation video: <https://youtu.be/24nEcHpWN9U>
 - Report: submitted as PDF
 
 ## Problem
